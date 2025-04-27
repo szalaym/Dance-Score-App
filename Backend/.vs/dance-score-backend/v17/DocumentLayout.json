@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|c:\\users\\szm_info2005a2\\desktop\\dance score app\\dance score app\\backend\\dance-score-backend\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|solutionrelative:dance-score-backend\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\controllers\\versenycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|solutionrelative:dance-score-backend\\controllers\\versenycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|solutionrelative:dance-score-backend\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\controllers\\eredmenycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|solutionrelative:dance-score-backend\\controllers\\eredmenycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\controllers\\nevezescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|solutionrelative:dance-score-backend\\controllers\\nevezescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\data\\dancescoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|solutionrelative:dance-score-backend\\data\\dancescoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\models\\nevezes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|solutionrelative:dance-score-backend\\models\\nevezes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\models\\nevezesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|solutionrelative:dance-score-backend\\models\\nevezesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\controllers\\csapatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|solutionrelative:dance-score-backend\\controllers\\csapatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\controllers\\birokcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|solutionrelative:dance-score-backend\\controllers\\birokcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|solutionrelative:dance-score-backend\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\models\\verseny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|solutionrelative:dance-score-backend\\models\\verseny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\models\\kategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|solutionrelative:dance-score-backend\\models\\kategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\models\\biro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|solutionrelative:dance-score-backend\\models\\biro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\models\\csapat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|solutionrelative:dance-score-backend\\models\\csapat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\models\\eredmeny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|solutionrelative:dance-score-backend\\models\\eredmeny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\models\\versenykategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|solutionrelative:dance-score-backend\\models\\versenykategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\models\\csapattag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F704F34-F66C-4288-8604-27D4CB6AE53C}|dance-score-backend\\dance-score-backend.csproj|solutionrelative:dance-score-backend\\models\\csapattag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Szalay Mikl\u00F3s\\Desktop\\dance-score-app\\dance-score-backend\\dance-score-backend\\Controllers\\VersenyekController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Szalay Mikl\u00F3s\\Desktop\\dance-score-app\\dance-score-backend\\dance-score-backend\\Controllers\\EredmenyekController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Csapattag.cs",
+              "DocumentMoniker": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Models\\Csapattag.cs",
+              "RelativeDocumentMoniker": "dance-score-backend\\Models\\Csapattag.cs",
+              "ToolTip": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Models\\Csapattag.cs",
+              "RelativeToolTip": "dance-score-backend\\Models\\Csapattag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:23:33.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Biro.cs",
+              "DocumentMoniker": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Models\\Biro.cs",
+              "RelativeDocumentMoniker": "dance-score-backend\\Models\\Biro.cs",
+              "ToolTip": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Models\\Biro.cs",
+              "RelativeToolTip": "dance-score-backend\\Models\\Biro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:23:33.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DanceScoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Data\\DanceScoreDbContext.cs",
+              "RelativeDocumentMoniker": "dance-score-backend\\Data\\DanceScoreDbContext.cs",
+              "ToolTip": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Data\\DanceScoreDbContext.cs",
+              "RelativeToolTip": "dance-score-backend\\Data\\DanceScoreDbContext.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwFQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:23:33.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Global.asax.cs",
+              "RelativeDocumentMoniker": "dance-score-backend\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Global.asax.cs",
+              "RelativeToolTip": "dance-score-backend\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-04-02T08:23:33.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BirokController.cs",
+              "DocumentMoniker": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Controllers\\BirokController.cs",
+              "RelativeDocumentMoniker": "dance-score-backend\\Controllers\\BirokController.cs",
+              "ToolTip": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Controllers\\BirokController.cs",
+              "RelativeToolTip": "dance-score-backend\\Controllers\\BirokController.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAkwI4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:23:33.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nevezes.cs",
+              "DocumentMoniker": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Models\\Nevezes.cs",
+              "RelativeDocumentMoniker": "dance-score-backend\\Models\\Nevezes.cs",
+              "ToolTip": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Models\\Nevezes.cs",
+              "RelativeToolTip": "dance-score-backend\\Models\\Nevezes.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:23:33.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EredmenyController.cs",
+              "DocumentMoniker": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Controllers\\EredmenyController.cs",
+              "RelativeDocumentMoniker": "dance-score-backend\\Controllers\\EredmenyController.cs",
+              "ToolTip": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Controllers\\EredmenyController.cs",
+              "RelativeToolTip": "dance-score-backend\\Controllers\\EredmenyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:23:33.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VersenyController.cs",
+              "DocumentMoniker": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Controllers\\VersenyController.cs",
+              "RelativeDocumentMoniker": "dance-score-backend\\Controllers\\VersenyController.cs",
+              "ToolTip": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Controllers\\VersenyController.cs",
+              "RelativeToolTip": "dance-score-backend\\Controllers\\VersenyController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:23:33.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Web.config",
+              "RelativeDocumentMoniker": "dance-score-backend\\Web.config",
+              "ToolTip": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Web.config",
+              "RelativeToolTip": "dance-score-backend\\Web.config",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEAAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-02T08:23:33.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "dance-score-backend\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "dance-score-backend\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:23:33.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Kategoria.cs",
+              "DocumentMoniker": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Models\\Kategoria.cs",
+              "RelativeDocumentMoniker": "dance-score-backend\\Models\\Kategoria.cs",
+              "ToolTip": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Models\\Kategoria.cs",
+              "RelativeToolTip": "dance-score-backend\\Models\\Kategoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:23:33.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CsapatController.cs",
+              "DocumentMoniker": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Controllers\\CsapatController.cs",
+              "RelativeDocumentMoniker": "dance-score-backend\\Controllers\\CsapatController.cs",
+              "ToolTip": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Controllers\\CsapatController.cs",
+              "RelativeToolTip": "dance-score-backend\\Controllers\\CsapatController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAgwIkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:23:33.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NevezesController.cs",
+              "DocumentMoniker": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Controllers\\NevezesController.cs",
+              "RelativeDocumentMoniker": "dance-score-backend\\Controllers\\NevezesController.cs",
+              "ToolTip": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Controllers\\NevezesController.cs",
+              "RelativeToolTip": "dance-score-backend\\Controllers\\NevezesController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwEwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:23:33.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NevezesDto.cs",
+              "DocumentMoniker": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Models\\NevezesDto.cs",
+              "RelativeDocumentMoniker": "dance-score-backend\\Models\\NevezesDto.cs",
+              "ToolTip": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Models\\NevezesDto.cs",
+              "RelativeToolTip": "dance-score-backend\\Models\\NevezesDto.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA9wCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:23:33.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VersenyKategoria.cs",
+              "DocumentMoniker": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Models\\VersenyKategoria.cs",
+              "RelativeDocumentMoniker": "dance-score-backend\\Models\\VersenyKategoria.cs",
+              "ToolTip": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Models\\VersenyKategoria.cs",
+              "RelativeToolTip": "dance-score-backend\\Models\\VersenyKategoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:23:33.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Csapat.cs",
+              "DocumentMoniker": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Models\\Csapat.cs",
+              "RelativeDocumentMoniker": "dance-score-backend\\Models\\Csapat.cs",
+              "ToolTip": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Models\\Csapat.cs",
+              "RelativeToolTip": "dance-score-backend\\Models\\Csapat.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:23:33.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Verseny.cs",
+              "DocumentMoniker": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Models\\Verseny.cs",
+              "RelativeDocumentMoniker": "dance-score-backend\\Models\\Verseny.cs",
+              "ToolTip": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Models\\Verseny.cs",
+              "RelativeToolTip": "dance-score-backend\\Models\\Verseny.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:23:33.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Eredmeny.cs",
+              "DocumentMoniker": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Models\\Eredmeny.cs",
+              "RelativeDocumentMoniker": "dance-score-backend\\Models\\Eredmeny.cs",
+              "ToolTip": "C:\\Users\\szm_info2005a2\\Desktop\\Dance Score App\\Dance Score App\\Backend\\dance-score-backend\\Models\\Eredmeny.cs",
+              "RelativeToolTip": "dance-score-backend\\Models\\Eredmeny.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:23:33.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VersenyekController.cs",
+              "DocumentMoniker": "C:\\Users\\Szalay Mikl\u00F3s\\Desktop\\dance-score-app\\dance-score-backend\\dance-score-backend\\Controllers\\VersenyekController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Szalay Mikl\u00F3s\\Desktop\\dance-score-app\\dance-score-backend\\dance-score-backend\\Controllers\\VersenyekController.cs",
+              "ToolTip": "C:\\Users\\Szalay Mikl\u00F3s\\Desktop\\dance-score-app\\dance-score-backend\\dance-score-backend\\Controllers\\VersenyekController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Szalay Mikl\u00F3s\\Desktop\\dance-score-app\\dance-score-backend\\dance-score-backend\\Controllers\\VersenyekController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:20:36.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EredmenyekController.cs",
+              "DocumentMoniker": "C:\\Users\\Szalay Mikl\u00F3s\\Desktop\\dance-score-app\\dance-score-backend\\dance-score-backend\\Controllers\\EredmenyekController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Szalay Mikl\u00F3s\\Desktop\\dance-score-app\\dance-score-backend\\dance-score-backend\\Controllers\\EredmenyekController.cs",
+              "ToolTip": "C:\\Users\\Szalay Mikl\u00F3s\\Desktop\\dance-score-app\\dance-score-backend\\dance-score-backend\\Controllers\\EredmenyekController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Szalay Mikl\u00F3s\\Desktop\\dance-score-app\\dance-score-backend\\dance-score-backend\\Controllers\\EredmenyekController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:20:36.758Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

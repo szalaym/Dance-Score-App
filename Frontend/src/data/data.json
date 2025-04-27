@@ -1,0 +1,56 @@
+{
+  "Header": {
+  "title": "Dance Score App",
+  "paragraph": "Könnyítsd meg a táncversenyek pontozását modern megoldásainkkal."
+  },
+  "About": {
+  "paragraph": "A Dance Score App célja, hogy egyszerűsítse és modernizálja a táncversenyek pontozását. Bírók és versenyzők számára egyaránt könnyen kezelhető megoldást kínálunk.",
+  "Why": [
+    "Egyszerű és gyors pontozás",
+    "Valós idejű eredmények",
+    "Adatbiztonság prioritásként"
+  ]
+},
+  "Services": [
+  {
+    "icon": "fa fa-clock-o",
+    "name": "Gyors eredmények",
+    "text": "Az eredmények azonnal frissülnek, így nem kell várakozni."
+  },
+  {
+    "icon": "fa fa-users",
+    "name": "Egyszerű használat",
+    "text": "Intuitív kezelőfelület minden felhasználónak."
+  },
+  {
+    "icon": "fa fa-lock",
+    "name": "Adatvédelem",
+    "text": "Az adataid biztonságban vannak a rendszerünkben."
+  }
+],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+  {
+    "icon": "fa fa-line-chart",
+    "title": "Valós idejű pontozás",
+    "text": "Az eredmények azonnal frissülnek a verseny során."
+  },
+  {
+    "icon": "fa fa-users",
+    "title": "Felhasználóbarát kezelőfelület",
+    "text": "Egyszerű és intuitív felület bíróknak és versenyzőknek."
+  },
+  {
+    "icon": "fa fa-lock",
+    "title": "Biztonságos platform",
+    "text": "Adataidat fejlett biztonsági intézkedésekkel védjük."
+  }
+]
+}

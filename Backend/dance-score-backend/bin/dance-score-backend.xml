@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>dance-score-backend</name>
+    </assembly>
+    <members>
+        <member name="M:dance_score_backend.Controllers.BirokController.GetBirok">
+            <summary>
+            Visszaadja az összes bíró adatait.
+            </summary>
+            <returns>A bírók listája JSON formátumban.</returns>
+        </member>
+        <member name="M:dance_score_backend.Controllers.BirokController.BiroRegisztralas(dance_score_backend.Controllers.BiroRegisztracioDto)">
+            <summary>
+            Regisztrál egy új bírót.
+            </summary>
+            <param name="dto">A bíró regisztrációs adatai.</param>
+            <returns>A regisztrált bíró azonosítója, vagy hibaüzenet.</returns>
+        </member>
+        <member name="M:dance_score_backend.Controllers.BirokController.Dispose(System.Boolean)">
+            <summary>
+            Felszabadítja az adatbázis kapcsolatot.
+            </summary>
+            <param name="disposing">Igaz, ha a felszabadítás explicit módon történik.</param>
+        </member>
+        <member name="M:dance_score_backend.Controllers.CsapatController.CsapatRegisztralas(dance_score_backend.Controllers.CsapatRegisztracioDto)">
+            <summary>
+            Regisztrál egy új csapatot, és opcionálisan nevezést hoz létre egy versenyhez.
+            </summary>
+            <param name="dto">A csapat regisztrációs adatai.</param>
+            <returns>A regisztrált csapat azonosítója, vagy hibaüzenet.</returns>
+        </member>
+        <member name="M:dance_score_backend.Controllers.CsapatController.Dispose(System.Boolean)">
+            <summary>
+            Felszabadítja az adatbázis kapcsolatot.
+            </summary>
+            <param name="disposing">Igaz, ha a felszabadítás explicit módon történik.</param>
+        </member>
+        <member name="M:dance_score_backend.Controllers.VersenyController.GetVersenyek">
+            <summary>
+            Visszaadja az összes versenyt a kategóriáikkal együtt.
+            </summary>
+            <returns>A versenyek listája JSON formátumban.</returns>
+        </member>
+        <member name="M:dance_score_backend.Controllers.VersenyController.CreateVerseny(dance_score_backend.Controllers.VersenyDto)">
+            <summary>
+            Létrehoz egy új versenyt a megadott kategóriákkal.
+            </summary>
+            <param name="dto">A verseny adatai.</param>
+            <returns>Sikeres létrehozás esetén üzenet, különben hibaüzenet.</returns>
+        </member>
+        <member name="M:dance_score_backend.Controllers.VersenyController.Dispose(System.Boolean)">
+            <summary>
+            Felszabadítja az adatbázis kapcsolatot.
+            </summary>
+            <param name="disposing">Igaz, ha a felszabadítás explicit módon történik.</param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,209 @@
+Z:\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\DanceScore_pontozo.exe.config
+Z:\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\DanceScore_pontozo.exe
+Z:\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\DanceScore_pontozo.pdb
+Z:\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.AssemblyReference.cache
+Z:\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\MainWindow.baml
+Z:\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\MainWindow.g.cs
+Z:\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\App.g.cs
+Z:\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo_MarkupCompile.cache
+Z:\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.g.resources
+Z:\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.Properties.Resources.resources
+Z:\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.GenerateResource.cache
+Z:\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.CoreCompileInputs.cache
+Z:\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.exe
+Z:\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.pdb
+Z:\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\Bejelentkezes.baml
+Z:\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\Bejelentkezes.g.cs
+Z:\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo_MarkupCompile.lref
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\DanceScore_pontozo.exe.config
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\DanceScore_pontozo.exe
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\DanceScore_pontozo.pdb
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.AssemblyReference.cache
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\Bejelentkezes.baml
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\Bejelentkezes.g.cs
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\App.g.cs
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo_MarkupCompile.cache
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.g.resources
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.Properties.Resources.resources
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.GenerateResource.cache
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.CoreCompileInputs.cache
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.exe
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.pdb
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\Pontozas.g.cs
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo_MarkupCompile.lref
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\Pontozas.baml
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\DanceScore_pontozo.exe.config
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\DanceScore_pontozo.exe
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\DanceScore_pontozo.pdb
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.AssemblyReference.cache
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\Bejelentkezes.baml
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\Bejelentkezes.g.cs
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\Pontozas.g.cs
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\App.g.cs
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo_MarkupCompile.cache
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo_MarkupCompile.lref
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\Pontozas.baml
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.g.resources
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.Properties.Resources.resources
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.GenerateResource.cache
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.CoreCompileInputs.cache
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.exe
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.pdb
+Z:\tanev24-25\mestermunka\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\DanceScore_pontozo.exe.config
+Z:\tanev24-25\mestermunka\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\DanceScore_pontozo.exe
+Z:\tanev24-25\mestermunka\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\DanceScore_pontozo.pdb
+Z:\tanev24-25\mestermunka\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.AssemblyReference.cache
+Z:\tanev24-25\mestermunka\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\Bejelentkezes.baml
+Z:\tanev24-25\mestermunka\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\Bejelentkezes.g.cs
+Z:\tanev24-25\mestermunka\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\Pontozas.g.cs
+Z:\tanev24-25\mestermunka\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\App.g.cs
+Z:\tanev24-25\mestermunka\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo_MarkupCompile.cache
+Z:\tanev24-25\mestermunka\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo_MarkupCompile.lref
+Z:\tanev24-25\mestermunka\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\Pontozas.baml
+Z:\tanev24-25\mestermunka\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.g.resources
+Z:\tanev24-25\mestermunka\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.Properties.Resources.resources
+Z:\tanev24-25\mestermunka\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.GenerateResource.cache
+Z:\tanev24-25\mestermunka\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.CoreCompileInputs.cache
+Z:\tanev24-25\mestermunka\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.exe
+Z:\tanev24-25\mestermunka\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.pdb
+Z:\tanev24-25\mestermunka\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\Regisztracio.g.cs
+Z:\tanev24-25\mestermunka\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\Regisztracio.baml
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\Google.Protobuf.dll
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\ZstdNet.dll
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\BouncyCastle.Crypto.dll
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\Ubiety.Dns.Core.dll
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\System.Memory.dll
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\System.Buffers.dll
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\K4os.Compression.LZ4.dll
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\K4os.Hash.xxHash.dll
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\System.Numerics.Vectors.dll
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\MySql.Data.xml
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.exe.config
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\Regisztracio.baml
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\Regisztracio.g.cs
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.CopyComplete
+Z:\tanev24-25\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\MySql.Data.dll
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\Google.Protobuf.dll
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\ZstdNet.dll
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\System.Memory.dll
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\System.Buffers.dll
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\MySql.Data.xml
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.exe.config
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\Regisztracio.baml
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\Regisztracio.g.cs
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.CopyComplete
+C:\Users\rh_info2005a1\Desktop\mestermunka\DanceScore_pontozo\DanceScore_pontozo\bin\Debug\MySql.Data.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\DanceScore_pontozo.exe.config
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\DanceScore_pontozo.exe
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\DanceScore_pontozo.pdb
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\MySql.Data.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\Google.Protobuf.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\ZstdNet.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\System.Memory.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\System.Buffers.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\MySql.Data.xml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.AssemblyReference.cache
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.exe.config
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\Bejelentkezes.baml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\Regisztracio.baml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\Bejelentkezes.g.cs
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\Pontozas.g.cs
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\Regisztracio.g.cs
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\App.g.cs
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo_MarkupCompile.cache
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo_MarkupCompile.lref
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\Pontozas.baml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.g.resources
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.Properties.Resources.resources
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.GenerateResource.cache
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.CoreCompileInputs.cache
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.CopyComplete
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.exe
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.pdb
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\DanceScore_pontozo.exe.config
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\DanceScore_pontozo.exe
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\DanceScore_pontozo.pdb
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\MySql.Data.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\Google.Protobuf.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\ZstdNet.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\System.Memory.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\System.Buffers.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\MySql.Data.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.AssemblyReference.cache
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.exe.config
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\Bejelentkezes.baml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\Regisztracio.baml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\Bejelentkezes.g.cs
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\Pontozas.g.cs
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\Regisztracio.g.cs
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\App.g.cs
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo_MarkupCompile.cache
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo_MarkupCompile.lref
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\Pontozas.baml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.g.resources
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.Properties.Resources.resources
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.GenerateResource.cache
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.CoreCompileInputs.cache
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.CopyComplete
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.exe
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.pdb
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\DanceScore_pontozo.exe.config
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\DanceScore_pontozo.exe
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\DanceScore_pontozo.pdb
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\MySql.Data.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\Google.Protobuf.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\ZstdNet.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\System.Memory.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\System.Buffers.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\MySql.Data.xml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.AssemblyReference.cache
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.exe.config
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\Bejelentkezes.baml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\Regisztracio.baml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\Bejelentkezes.g.cs
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\Pontozas.g.cs
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\Regisztracio.g.cs
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\App.g.cs
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo_MarkupCompile.cache
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo_MarkupCompile.lref
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\Pontozas.baml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.g.resources
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.Properties.Resources.resources
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.GenerateResource.cache
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.CoreCompileInputs.cache
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.csproj.CopyComplete
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.exe
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Dance Score App\Desktop App WPF\DanceScore_pontozo\obj\Debug\DanceScore_pontozo.pdb

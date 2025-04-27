@@ -1,0 +1,815 @@
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\dance-score-backend.dll.config
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\dance-score-backend.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\dance-score-backend.pdb
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\csc.exe
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\csc.exe.config
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\csc.rsp
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\csi.exe
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\csi.exe.config
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\csi.rsp
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.AppContext.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Console.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.IO.Compression.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Net.Http.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Net.Sockets.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.ValueTuple.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Xml.XPath.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\vbc.exe
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\vbc.exe.config
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\vbc.rsp
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\VBCSCompiler.exe
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\BouncyCastle.Crypto.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\EntityFramework.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\EntityFramework.SqlServer.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\Google.Protobuf.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\K4os.Compression.LZ4.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\K4os.Hash.xxHash.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\MySql.Data.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\MySql.Data.EntityFramework.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\Newtonsoft.Json.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\Renci.SshNet.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\Swashbuckle.Core.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\System.Buffers.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\System.Memory.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\System.Net.Http.Formatting.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\System.Numerics.Vectors.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\System.Web.Http.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\System.Web.Http.WebHost.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\Ubiety.Dns.Core.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\WebActivatorEx.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\Zstandard.Net.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\EntityFramework.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\EntityFramework.SqlServer.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\Google.Protobuf.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\K4os.Compression.LZ4.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\K4os.Hash.xxHash.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\MySql.Data.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\MySql.Data.EntityFramework.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\Renci.SshNet.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\System.Buffers.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\System.Memory.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\System.Numerics.Vectors.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\Newtonsoft.Json.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\System.Net.Http.Formatting.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\System.Web.Http.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\System.Web.Http.WebHost.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.csproj.AssemblyReference.cache
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.csproj.CoreCompileInputs.cache
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.csproj.CopyComplete
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.pdb
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\dance-score-backend.dll.config
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\dance-score-backend.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\dance-score-backend.pdb
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\csc.exe
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\csc.exe.config
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\csc.rsp
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\csi.exe
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\csi.exe.config
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\csi.rsp
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.AppContext.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Console.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.IO.Compression.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Net.Http.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Net.Sockets.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.ValueTuple.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Xml.XPath.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\vbc.exe
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\vbc.exe.config
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\vbc.rsp
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\VBCSCompiler.exe
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\BouncyCastle.Crypto.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\EntityFramework.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\EntityFramework.SqlServer.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\Google.Protobuf.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\K4os.Compression.LZ4.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\K4os.Hash.xxHash.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\MySql.Data.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\MySql.Data.EntityFramework.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\Newtonsoft.Json.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\Renci.SshNet.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\Swashbuckle.Core.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Buffers.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Memory.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Net.Http.Formatting.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Numerics.Vectors.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Web.Http.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Web.Http.WebHost.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\Ubiety.Dns.Core.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\WebActivatorEx.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\Zstandard.Net.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\EntityFramework.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\EntityFramework.SqlServer.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\Google.Protobuf.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\K4os.Compression.LZ4.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\K4os.Hash.xxHash.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\MySql.Data.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\MySql.Data.EntityFramework.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\Renci.SshNet.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Buffers.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Memory.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Numerics.Vectors.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\Newtonsoft.Json.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Net.Http.Formatting.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Web.Http.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Web.Http.WebHost.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.csproj.AssemblyReference.cache
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.csproj.CoreCompileInputs.cache
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.csproj.CopyComplete
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.pdb
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\bin\dance-score-backend.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\dance-score-backend.dll.config
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\dance-score-backend.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\dance-score-backend.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\dance-score-backend.pdb
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\csc.exe
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\csc.exe.config
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\csc.rsp
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\csi.exe
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\csi.exe.config
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\csi.rsp
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.AppContext.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Console.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.IO.Compression.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Net.Http.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Net.Sockets.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.ValueTuple.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Xml.XPath.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\vbc.exe
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\vbc.exe.config
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\vbc.rsp
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\VBCSCompiler.exe
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\BouncyCastle.Crypto.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\EntityFramework.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\EntityFramework.SqlServer.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\Google.Protobuf.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\K4os.Compression.LZ4.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\K4os.Hash.xxHash.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\MySql.Data.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\MySql.Data.EntityFramework.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\Newtonsoft.Json.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\Renci.SshNet.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\Swashbuckle.Core.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Buffers.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Memory.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Net.Http.Formatting.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Numerics.Vectors.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Web.Http.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Web.Http.WebHost.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\Ubiety.Dns.Core.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\WebActivatorEx.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\Zstandard.Net.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\EntityFramework.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\EntityFramework.SqlServer.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\Google.Protobuf.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\K4os.Compression.LZ4.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\K4os.Hash.xxHash.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\MySql.Data.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\MySql.Data.EntityFramework.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\Renci.SshNet.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Buffers.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Memory.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Numerics.Vectors.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\Newtonsoft.Json.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Net.Http.Formatting.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Web.Http.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\System.Web.Http.WebHost.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.csproj.AssemblyReference.cache
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.csproj.CoreCompileInputs.cache
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.csproj.CopyComplete
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-backend\dance-score-backend\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.pdb
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\dance-score-backend.dll.config
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\dance-score-backend.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\dance-score-backend.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\dance-score-backend.pdb
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\csc.exe
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\csc.exe.config
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\csc.rsp
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\csi.exe
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\csi.exe.config
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\csi.rsp
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.AppContext.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.Console.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.IO.Compression.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.Net.Http.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.ValueTuple.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\vbc.exe
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\vbc.exe.config
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\vbc.rsp
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\VBCSCompiler.exe
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\BouncyCastle.Crypto.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\EntityFramework.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\EntityFramework.SqlServer.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\Google.Protobuf.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\K4os.Compression.LZ4.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\K4os.Hash.xxHash.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\MySql.Data.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\MySql.Data.EntityFramework.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\Newtonsoft.Json.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\Renci.SshNet.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\Swashbuckle.Core.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\System.Buffers.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\System.Memory.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\System.Net.Http.Formatting.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\System.Numerics.Vectors.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\System.Web.Http.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\System.Web.Http.WebHost.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\Ubiety.Dns.Core.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\WebActivatorEx.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\Zstandard.Net.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\EntityFramework.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\EntityFramework.SqlServer.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\Google.Protobuf.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\K4os.Compression.LZ4.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\K4os.Hash.xxHash.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\MySql.Data.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\MySql.Data.EntityFramework.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\Renci.SshNet.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\System.Buffers.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\System.Memory.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\System.Numerics.Vectors.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\Newtonsoft.Json.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\System.Net.Http.Formatting.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\System.Web.Http.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\System.Web.Http.WebHost.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.csproj.AssemblyReference.cache
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.csproj.CoreCompileInputs.cache
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.csproj.CopyComplete
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backendv2\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.pdb
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.csproj.AssemblyReference.cache
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.csproj.CoreCompileInputs.cache
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.pdb
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\dance-score-backend.dll.config
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\dance-score-backend.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\dance-score-backend.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\dance-score-backend.pdb
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\csc.exe
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\csc.exe.config
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\csc.rsp
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\csi.exe
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\csi.exe.config
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\csi.rsp
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.AppContext.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.Console.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.IO.Compression.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.Net.Http.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.Net.Sockets.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.ValueTuple.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.Xml.XPath.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\vbc.exe
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\vbc.exe.config
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\vbc.rsp
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\VBCSCompiler.exe
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\BouncyCastle.Crypto.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\EntityFramework.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\EntityFramework.SqlServer.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\Google.Protobuf.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\K4os.Compression.LZ4.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\K4os.Hash.xxHash.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\MySql.Data.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\MySql.Data.EntityFramework.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\Newtonsoft.Json.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\Renci.SshNet.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\Swashbuckle.Core.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\System.Buffers.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\System.Memory.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\System.Net.Http.Formatting.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\System.Numerics.Vectors.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\System.Web.Http.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\System.Web.Http.WebHost.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\Ubiety.Dns.Core.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\WebActivatorEx.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\Zstandard.Net.dll
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\EntityFramework.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\EntityFramework.SqlServer.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\Google.Protobuf.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\K4os.Compression.LZ4.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\K4os.Hash.xxHash.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\MySql.Data.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\MySql.Data.EntityFramework.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\Renci.SshNet.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\System.Buffers.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\System.Memory.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\System.Numerics.Vectors.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\Newtonsoft.Json.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\System.Net.Http.Formatting.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\System.Web.Http.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\System.Web.Http.WebHost.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\szm_info2005a2\Desktop\dance-score-app_complete\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.csproj.CopyComplete
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\dance-score-backend.dll.config
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\dance-score-backend.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\dance-score-backend.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\dance-score-backend.pdb
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\csc.exe
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\csc.exe.config
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\csc.rsp
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\csi.exe
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\csi.exe.config
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\csi.rsp
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.AppContext.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Console.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.IO.Compression.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Net.Http.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.ValueTuple.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\vbc.exe
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\vbc.exe.config
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\vbc.rsp
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\VBCSCompiler.exe
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\BouncyCastle.Crypto.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\EntityFramework.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\EntityFramework.SqlServer.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\Google.Protobuf.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\K4os.Compression.LZ4.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\K4os.Hash.xxHash.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\MySql.Data.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\MySql.Data.EntityFramework.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\Newtonsoft.Json.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\Renci.SshNet.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\Swashbuckle.Core.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\System.Buffers.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\System.Memory.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\System.Net.Http.Formatting.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\System.Numerics.Vectors.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\System.Web.Http.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\System.Web.Http.WebHost.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\Ubiety.Dns.Core.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\WebActivatorEx.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\Zstandard.Net.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\EntityFramework.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\EntityFramework.SqlServer.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\Google.Protobuf.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\K4os.Compression.LZ4.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\K4os.Hash.xxHash.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\MySql.Data.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\MySql.Data.EntityFramework.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\Renci.SshNet.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\System.Buffers.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\System.Memory.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\System.Numerics.Vectors.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\Newtonsoft.Json.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\System.Net.Http.Formatting.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\System.Web.Http.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\System.Web.Http.WebHost.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.csproj.AssemblyReference.cache
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.csproj.CoreCompileInputs.cache
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.csproj.CopyComplete
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.dll
+C:\Users\Szalay Miklós\Desktop\dance-score-backend\dance-score-backend\obj\Debug\dance-score-backend.pdb
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\dance-score-backend.dll.config
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\dance-score-backend.xml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\dance-score-backend.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\dance-score-backend.pdb
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\csc.exe
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\csc.exe.config
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\csc.rsp
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\csi.exe
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\csi.exe.config
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\csi.rsp
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.AppContext.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Console.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.IO.Compression.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Net.Http.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.ValueTuple.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\vbc.exe
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\vbc.exe.config
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\vbc.rsp
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\VBCSCompiler.exe
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\BouncyCastle.Crypto.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\EntityFramework.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\EntityFramework.SqlServer.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\Google.Protobuf.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\K4os.Compression.LZ4.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\K4os.Hash.xxHash.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\MySql.Data.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\MySql.Data.EntityFramework.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\Newtonsoft.Json.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\Renci.SshNet.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\Swashbuckle.Core.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\System.Buffers.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\System.Memory.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\System.Net.Http.Formatting.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\System.Numerics.Vectors.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\System.Web.Http.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\System.Web.Http.WebHost.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\Ubiety.Dns.Core.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\WebActivatorEx.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\Zstandard.Net.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\EntityFramework.xml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\EntityFramework.SqlServer.xml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\Google.Protobuf.xml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\K4os.Compression.LZ4.xml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\K4os.Hash.xxHash.xml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\MySql.Data.xml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\MySql.Data.EntityFramework.xml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\Renci.SshNet.xml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\System.Buffers.xml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\System.Memory.xml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\System.Numerics.Vectors.xml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\Newtonsoft.Json.xml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\System.Net.Http.Formatting.xml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\System.Web.Http.xml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\System.Web.Http.WebHost.xml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\obj\Debug\dance-score-backend.csproj.AssemblyReference.cache
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\obj\Debug\dance-score-backend.csproj.CoreCompileInputs.cache
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\obj\Debug\dance-score-backend.csproj.CopyComplete
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\obj\Debug\dance-score-backend.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\obj\Debug\dance-score-backend.pdb
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\Newtonsoft.Json.Bson.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\System.Web.Cors.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\System.Web.Http.Cors.dll
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\Newtonsoft.Json.Bson.xml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Szalay Miklós\Desktop\Dance Score App\Backend\dance-score-backend\bin\System.Web.Http.Cors.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\dance-score-backend.dll.config
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\dance-score-backend.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\dance-score-backend.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\dance-score-backend.pdb
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\csc.exe
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\csc.exe.config
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\csc.rsp
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\csi.exe
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\csi.exe.config
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\csi.rsp
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.AppContext.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Console.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.IO.Compression.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Net.Http.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Net.Sockets.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.ValueTuple.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Xml.XPath.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\vbc.exe
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\vbc.exe.config
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\vbc.rsp
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\VBCSCompiler.exe
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\BouncyCastle.Crypto.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\EntityFramework.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\EntityFramework.SqlServer.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\Google.Protobuf.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\K4os.Compression.LZ4.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\K4os.Hash.xxHash.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\MySql.Data.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\MySql.Data.EntityFramework.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\Newtonsoft.Json.Bson.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\Newtonsoft.Json.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\Renci.SshNet.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\Swashbuckle.Core.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\System.Buffers.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\System.Memory.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\System.Net.Http.Formatting.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\System.Numerics.Vectors.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\System.Web.Cors.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\System.Web.Http.Cors.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\System.Web.Http.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\System.Web.Http.WebHost.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\Ubiety.Dns.Core.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\WebActivatorEx.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\Zstandard.Net.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\EntityFramework.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\EntityFramework.SqlServer.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\Google.Protobuf.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\K4os.Compression.LZ4.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\K4os.Hash.xxHash.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\MySql.Data.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\MySql.Data.EntityFramework.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\Newtonsoft.Json.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\Newtonsoft.Json.Bson.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\Renci.SshNet.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\System.Buffers.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\System.Memory.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\System.Net.Http.Formatting.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\System.Numerics.Vectors.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\System.Web.Http.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\System.Web.Http.Cors.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\System.Web.Http.WebHost.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\obj\Debug\dance-score-backend.csproj.AssemblyReference.cache
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\obj\Debug\dance-score-backend.csproj.CoreCompileInputs.cache
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\obj\Debug\dance-score-backend.csproj.CopyComplete
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\obj\Debug\dance-score-backend.dll
+C:\Users\szm_info2005a2\Desktop\Dance Score App\Dance Score App\Backend\dance-score-backend\obj\Debug\dance-score-backend.pdb

@@ -1,0 +1,145 @@
+/* Alapstílusok */
+.navbar {
+  background-color: #f8f9fa;
+  padding: 10px 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  position: relative; /* Szükséges a z-index-hez */
+  z-index: 1000; /* Magas z-index, hogy előtérben legyen */
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+  text-decoration: none;
+}
+
+.navbar-toggle {
+  display: none; /* Alapértelmezetten elrejtve */
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.icon-bar {
+  display: block;
+  width: 22px;
+  height: 2px;
+  background-color: #333;
+  margin: 4px 0;
+}
+
+.navbar-nav {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-nav li {
+  margin-left: 20px;
+}
+
+.navbar-nav a {
+  color: #333;
+  text-decoration: none;
+  font-size: 16px;
+  transition: color 0.3s ease;
+}
+
+.navbar-nav a:hover,
+.navbar-nav a.active {
+  color: #007bff;
+}
+
+.navbar-nav .nevezes-link {
+  color: #007bff;
+  font-weight: bold;
+}
+
+.navbar-nav .eredmenyek-link {
+  color: #007bff;
+  font-weight: bold;
+}
+
+.navbar-nav .regisztracio-link {
+  color: #007bff;
+  font-weight: bold;
+}
+
+/* Mobilos nézet */
+@media screen and (max-width: 768px) {
+  .navbar-toggle {
+    display: block; /* Hamburger ikon megjelenítése */
+  }
+
+  .navbar-nav {
+    display: none; /* Alapértelmezetten elrejtve */
+    flex-direction: column;
+    width: 100%;
+    background-color: #f8f9fa;
+    position: absolute;
+    top: 60px;
+    left: 0;
+    padding: 10px 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    z-index: 1000; /* Magas z-index, hogy előtérben legyen */
+  }
+
+  .navbar-nav.active {
+    display: flex; /* Menü megjelenítése, ha aktív */
+  }
+
+  .navbar-nav li {
+    margin: 10px 0;
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  #services h2 {
+      font-size: 2rem; /* Further reduced size for "Szolgáltatások" heading */
+  }
+}
+
+/* styles.css vagy más CSS fájl */
+.modal-content {
+  max-height: 80vh;
+  overflow-y: auto;
+  padding-right: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  word-wrap: break-word;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+  max-width: 200px;
+}
+
+th {
+  background-color: #f4f4f4;
+}
+
+@media screen and (max-width: 768px) {
+  th, td{
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+    max-width: 100px;
+  }
+}
